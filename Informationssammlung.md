@@ -1,0 +1,1 @@
+- Vorlesungstranskripte: Speech to Text -> Jotting, dass die KI als Referenz nehmen kann

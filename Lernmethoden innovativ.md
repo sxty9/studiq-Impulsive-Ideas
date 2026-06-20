@@ -1,0 +1,3 @@
+- KI generiert Übungsaufgabe -> macht sie dann in einem Editor (vgl. notability) und sie merkt kontinuierlich Fehler hervor, kann Hinweise geben, Fragen beantworten (Kommunikation evtl. über Spracheingabe / ausgabe)
+- Domänenspezifischer KI Chatbot: Der aus Quellen Pool mittels RAG agiert (vgl. NotebookNLM)
+	- Frage NotebookNLM rooting zum generieren quellenspez. Medien (Präsentationen, Erklärvideos, Karteikarten) oder Lösung aus eigenem Hause? (lokales RAG z. B.)

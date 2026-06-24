@@ -3,3 +3,4 @@
 	- KI trackt die Fehler die man macht, merkt sich diese (lakearch) und bei der darauffolgenden Session oder nächsten Tag oder so, testet es mich genau auf diese Stolpersteine und erinnert mich! -> genial
 - Domänenspezifischer KI Chatbot: Der aus Quellen Pool mittels RAG agiert (vgl. NotebookNLM)
 	- Frage NotebookNLM rooting zum generieren quellenspez. Medien (Präsentationen, Erklärvideos, Karteikarten) oder Lösung aus eigenem Hause? (lokales RAG z. B.)
+- Aus Vorlesungsmitschriften und Transkripte automatisch Lern PDF erstellen und auch ins lakearch instance einschleusen

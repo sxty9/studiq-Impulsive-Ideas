@@ -2,3 +2,5 @@
 - Diese Themenverschachtelungsmap, wo man Kacheln hat und Themenkacheln erhalten neue Kacheln, eine Kacheln kann Daten beliebig aufbereiten
 - Lernen über Karteikarten (Active Recall)
 - Konzepte einfach erklären können (Feynman Method)
+	- Am Smartboard alle Lerninhalte bei Kurzzeit vor Klausuren platzieren (slidable)
+		- noch viel besser, und das ist innovativ: auf dem smartboard die webapp öffnen und da nochmal mit studiq alles durchgehen (Klausursimulation mit echten Übungsaufgaben)

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informationssammlung.md",
+                "file": "Lernmethoden observativ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Informationssammlung"
+              "title": "Lernmethoden observativ"
             }
           }
         ],
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informationssammlung.md",
+                "file": "Lernmethoden observativ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Informationssammlung"
+              "title": "Rückverweise auf Lernmethoden observativ"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informationssammlung.md",
+                "file": "Lernmethoden observativ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Informationssammlung öffnen"
+              "title": "Ausgehende Links von Lernmethoden observativ öffnen"
             }
           },
           {
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informationssammlung.md",
+                "file": "Lernmethoden observativ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Informationssammlung"
+              "title": "Gliederung von Lernmethoden observativ"
             }
           }
         ]
@@ -230,8 +230,8 @@
   },
   "active": "213899e3021df980",
   "lastOpenFiles": [
-    "Lernmethoden innovativ.md",
+    "Informationssammlung.md",
     "Lernmethoden observativ.md",
-    "Informationssammlung.md"
+    "Lernmethoden innovativ.md"
   ]
 }
